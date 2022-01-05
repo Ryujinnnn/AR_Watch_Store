@@ -1,0 +1,23 @@
+[{
+    "productName":"DHDT-001",
+    "productPic":"assets/images/watch_1.png",
+    "productCate":"Đồng hồ điện tử",
+    "productPrice":"1.690.000đ",
+    "productColor":["assets/images/blue_button.png","assets/images/black_button.png"],
+    "productDescription":"Đồng hồ điện tử mẫu 1"
+},
+{
+    "productName":"DHC-001",
+    "productPic":"assets/images/watch_2.png",
+    "productCate":"Đồng hồ cơ",
+    "productPrice":"1.490.000đ",
+    "productColor":["assets/images/brown_button.png","assets/images/black_button.png"],
+    "productDescription":"Đồng hồ cơ mẫu 1"
+},{
+    "productName":"DHC-002",
+    "productPic":"assets/images/watch_3.png",
+    "productCate":"Đồng hồ cơ",
+    "productPrice":"1.990.000đ",
+    "productColor":["assets/images/white_button.png","assets/images/gold_button.png"],
+    "productDescription":"Đồng hồ cơ mẫu 2"
+}]

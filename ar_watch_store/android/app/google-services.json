@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092810275525",
+    "project_id": "ar-watch-store",
+    "storage_bucket": "ar-watch-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092810275525:android:66f37a3818c996655dceac",
+        "android_client_info": {
+          "package_name": "com.example.ar_watch_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092810275525-n5g28gdgbp1rrkhjb3i5fl7a0l7t100r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu_e6QJ3tT4Y7DbL15SBznGhxnIqhr920"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092810275525-n5g28gdgbp1rrkhjb3i5fl7a0l7t100r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
